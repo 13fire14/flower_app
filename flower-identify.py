@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 17 14:51:24 2022
-
-@author: bianca
-"""
 import streamlit as st 
 import sys
 import numpy as np
